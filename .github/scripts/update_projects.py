@@ -51,14 +51,16 @@ def public_repos(owner):
 
 
 def version_of(owner, name):
-    """Highest semver among the VERSION file and the tags, else None."""
-    candidates = []
+    """VERSION file on the default (stable) branch; else the highest semver tag.
+
+    Tags are only a fallback: a tag may mark a version still on a development
+    branch, not yet released on the stable one.
+    """
     text = api(f"/repos/{owner}/{name}/contents/VERSION", raw=True)
     if text and text.strip():
-        candidates.append(text.strip().splitlines()[0].strip())
-    candidates += [t["name"] for t in (api(f"/repos/{owner}/{name}/tags?per_page=100") or [])]
+        return text.strip().splitlines()[0].strip().lstrip("v")
     best = None
-    for c in candidates:
+    for c in [t["name"] for t in (api(f"/repos/{owner}/{name}/tags?per_page=100") or [])]:
         m = SEMVER.match(c)
         if m:
             key = tuple(int(x or 0) for x in m.groups())

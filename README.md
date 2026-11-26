@@ -92,7 +92,7 @@ Registrare, marcare, ricevere e dirigere trasmissioni in diretta, anche su hardw
 
 | Progetto · Project | Descrizione · Description | Versione · Version | Licenza · License |
 |---|---|---|---|
-| [**Fluxus**](https://github.com/rufusinfabula/Fluxus) | Registratore audio e video programmato per Raspberry Pi: palinsesti, marker in diretta, estrazione automatica delle clip.<br><sub>Scheduled audio and video recorder for Raspberry Pi: schedules, live markers, automatic clip extraction.</sub> | 1.0.1 | AGPL-3.0 |
+| [**Fluxus**](https://github.com/rufusinfabula/Fluxus) | Registratore audio e video programmato per Raspberry Pi: palinsesti, marker in diretta, estrazione automatica delle clip.<br><sub>Scheduled audio and video recorder for Raspberry Pi: schedules, live markers, automatic clip extraction.</sub> | 1.0.0 | AGPL-3.0 |
 | [**Fluxus Connect**](https://github.com/rufusinfabula/Fluxus-Connect) | Broker che collega un Fluxus in rete privata a console esterne, senza aprire porte. Gira su hosting economici.<br><sub>Broker linking a Fluxus on a private network to external consoles, with no open ports. Runs on cheap hosting.</sub> | 1.1.0 | AGPL-3.0 |
 | [**Fluxus Remote**](https://github.com/rufusinfabula/Fluxus-Remote) | Pulsantiera web per inviare marker e cue a Fluxus da fuori casa, dal telefono.<br><sub>Web button panel to send markers and cues to Fluxus from anywhere, on your phone.</sub> | 1.0.1 | AGPL-3.0 |
 | **Fluxus Player** | Ricevitore di flussi audio e video per microcomputer Linux: si accende e suona da solo.<br><sub>Audio and video stream receiver for Linux single-board computers: switch it on and it plays.</sub> | 🚧 in arrivo · coming soon | — |
@@ -114,7 +114,7 @@ Soci, votazioni, classi e lavoro di squadra, su un normale hosting.<br><sub>Memb
 
 | Progetto · Project | Descrizione · Description | Versione · Version | Licenza · License |
 |---|---|---|---|
-| [**Electus**](https://github.com/rufusinfabula/Electus) | Votazioni ed elezioni: sei modelli di voto, più turni, voto anonimo, risultati convalidati.<br><sub>Votes and elections: six voting models, multiple rounds, anonymous ballots, validated results.</sub> | 0.6.1 | — |
+| [**Electus**](https://github.com/rufusinfabula/Electus) | Votazioni ed elezioni: sei modelli di voto, più turni, voto anonimo, risultati convalidati.<br><sub>Votes and elections: six voting models, multiple rounds, anonymous ballots, validated results.</sub> | 0.6.1 | AGPL-3.0 |
 | [**Socius**](https://github.com/rufusinfabula/Socius) | Gestionale per associazioni: soci, rinnovi, pagamenti PayPal e Satispay, eventi, assemblee e verbali.<br><sub>Association management: members, renewals, PayPal and Satispay payments, events, assemblies and minutes.</sub> | 0.4.2 | GPL-3.0 |
 | **Giorgius** | Portale per classi scolastiche: materie, gruppi, documenti condivisi, accesso con codice d'invito.<br><sub>Portal for school classes: subjects, groups, shared documents, invitation-code access.</sub> | 🔒 privato · private | — |
 | **Workflow** | Gestione di team, attività, routine e passi di lavoro.<br><sub>Team, task, routine and work-step management.</sub> | 🔒 privato · private | — |
