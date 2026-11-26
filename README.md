@@ -114,19 +114,17 @@ Soci, votazioni, classi e lavoro di squadra, su un normale hosting.<br><sub>Memb
 
 | Progetto · Project | Descrizione · Description | Versione · Version | Licenza · License |
 |---|---|---|---|
-| [**Electus**](https://github.com/rufusinfabula/Electus) | Votazioni ed elezioni: sei modelli di voto, più turni, voto anonimo, risultati convalidati.<br><sub>Votes and elections: six voting models, multiple rounds, anonymous ballots, validated results.</sub> | — | — |
-| [**Socius**](https://github.com/rufusinfabula/Socius) | Gestionale per associazioni: soci, rinnovi, pagamenti PayPal e Satispay, eventi, assemblee e verbali.<br><sub>Association management: members, renewals, PayPal and Satispay payments, events, assemblies and minutes.</sub> | — | GPL-3.0 |
+| [**Electus**](https://github.com/rufusinfabula/Electus) | Votazioni ed elezioni: sei modelli di voto, più turni, voto anonimo, risultati convalidati.<br><sub>Votes and elections: six voting models, multiple rounds, anonymous ballots, validated results.</sub> | 0.6.1 | — |
+| [**Socius**](https://github.com/rufusinfabula/Socius) | Gestionale per associazioni: soci, rinnovi, pagamenti PayPal e Satispay, eventi, assemblee e verbali.<br><sub>Association management: members, renewals, PayPal and Satispay payments, events, assemblies and minutes.</sub> | 0.4.2 | GPL-3.0 |
 | **Giorgius** | Portale per classi scolastiche: materie, gruppi, documenti condivisi, accesso con codice d'invito.<br><sub>Portal for school classes: subjects, groups, shared documents, invitation-code access.</sub> | 🔒 privato · private | — |
 | **Workflow** | Gestione di team, attività, routine e passi di lavoro.<br><sub>Team, task, routine and work-step management.</sub> | 🔒 privato · private | — |
 
-### WordPress per podcast · WordPress for podcasts
-
-Plugin e tema per costruire il sito di un podcast in WordPress.<br><sub>A plugin and a theme to build a podcast website on WordPress.</sub>
+### Altri progetti · Other projects
 
 | Progetto · Project | Descrizione · Description | Versione · Version | Licenza · License |
 |---|---|---|---|
-| **Podcast Core Plugin** | Episodi, serie, player audio e import automatico dal feed RSS. Nessuna dipendenza esterna.<br><sub>Episodes, series, audio player and automatic RSS feed import. No third-party dependencies.</sub> | 🚧 in arrivo · coming soon | GPL-2.0 |
-| **Podcast Core Theme** | Tema a blocchi pensato per Podcast Core Plugin: pagine episodio, archivi delle serie, ricerca raggruppata.<br><sub>Block theme built for Podcast Core Plugin: episode pages, series archives, grouped search.</sub> | 🚧 in arrivo · coming soon | GPL-2.0 |
+| [**podcast-core-plugin**](https://github.com/rufusinfabula/podcast-core-plugin) |  | — | GPL-2.0 |
+| [**podcast-core-theme**](https://github.com/rufusinfabula/podcast-core-theme) |  | — | GPL-2.0 |
 <!-- PROJECTS:END -->
 
 ---
