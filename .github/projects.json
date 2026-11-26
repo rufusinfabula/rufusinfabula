@@ -1,0 +1,167 @@
+{
+  "owner": "rufusinfabula",
+  "exclude": [
+    "rufusinfabula"
+  ],
+  "families": [
+    {
+      "topic": "live-broadcast",
+      "title": {
+        "it": "Radio, broadcast e produzione live",
+        "en": "Radio, broadcasting and live production"
+      },
+      "intro": {
+        "it": "Registrare, marcare, ricevere e dirigere trasmissioni in diretta, anche su hardware economico e senza cloud.",
+        "en": "Record, mark, receive and run live broadcasts, even on inexpensive hardware and with no cloud."
+      }
+    },
+    {
+      "topic": "city-data",
+      "title": {
+        "it": "Città e dati in tempo reale",
+        "en": "Cities and real-time data"
+      },
+      "intro": {
+        "it": "Dati pubblici e calendari trasformati in pagine e display leggibili a colpo d'occhio.",
+        "en": "Public data and calendars turned into pages and displays you can read at a glance."
+      }
+    },
+    {
+      "topic": "community-tools",
+      "title": {
+        "it": "Organizzazioni, scuole e comunità",
+        "en": "Organizations, schools and communities"
+      },
+      "intro": {
+        "it": "Soci, votazioni, classi e lavoro di squadra, su un normale hosting.",
+        "en": "Members, elections, classes and teamwork, on ordinary web hosting."
+      }
+    },
+    {
+      "topic": "podcast-wordpress",
+      "title": {
+        "it": "WordPress per podcast",
+        "en": "WordPress for podcasts"
+      },
+      "intro": {
+        "it": "Plugin e tema per costruire il sito di un podcast in WordPress.",
+        "en": "A plugin and a theme to build a podcast website on WordPress."
+      }
+    }
+  ],
+  "other": {
+    "title": {
+      "it": "Altri progetti",
+      "en": "Other projects"
+    },
+    "intro": {
+      "it": "",
+      "en": ""
+    }
+  },
+  "repos": {
+    "Fluxus": {
+      "family": "live-broadcast",
+      "it": "Registratore audio e video programmato per Raspberry Pi: palinsesti, marker in diretta, estrazione automatica delle clip.",
+      "en": "Scheduled audio and video recorder for Raspberry Pi: schedules, live markers, automatic clip extraction."
+    },
+    "Fluxus-Connect": {
+      "label": "Fluxus Connect",
+      "family": "live-broadcast",
+      "it": "Broker che collega un Fluxus in rete privata a console esterne, senza aprire porte. Gira su hosting economici.",
+      "en": "Broker linking a Fluxus on a private network to external consoles, with no open ports. Runs on cheap hosting."
+    },
+    "Fluxus-Remote": {
+      "label": "Fluxus Remote",
+      "family": "live-broadcast",
+      "it": "Pulsantiera web per inviare marker e cue a Fluxus da fuori casa, dal telefono.",
+      "en": "Web button panel to send markers and cues to Fluxus from anywhere, on your phone."
+    },
+    "Socius": {
+      "family": "community-tools",
+      "it": "Gestionale per associazioni: soci, rinnovi, pagamenti PayPal e Satispay, eventi, assemblee e verbali.",
+      "en": "Association management: members, renewals, PayPal and Satispay payments, events, assemblies and minutes."
+    },
+    "Electus": {
+      "family": "community-tools",
+      "it": "Votazioni ed elezioni: sei modelli di voto, più turni, voto anonimo, risultati convalidati.",
+      "en": "Votes and elections: six voting models, multiple rounds, anonymous ballots, validated results."
+    }
+  },
+  "private": [
+    {
+      "name": "Fluxus-Player",
+      "label": "Fluxus Player",
+      "family": "live-broadcast",
+      "status": "upcoming",
+      "it": "Ricevitore di flussi audio e video per microcomputer Linux: si accende e suona da solo.",
+      "en": "Audio and video stream receiver for Linux single-board computers: switch it on and it plays."
+    },
+    {
+      "name": "Actus",
+      "label": "Actus",
+      "family": "live-broadcast",
+      "status": "private",
+      "it": "Scalette, script e regia di show live, cerimonie e produzioni TV, con viste in tempo reale ed export PDF.",
+      "en": "Rundowns, scripts and show calling for live shows, ceremonies and TV productions, with live views and PDF export."
+    },
+    {
+      "name": "milanodalvivo",
+      "label": "Milano dal Vivo",
+      "family": "city-data",
+      "status": "private",
+      "it": "Webapp realizzata per GoodMorning Milano: treni, aeroporti, pronto soccorso, aria, meteo e telecamere della Lombardia in tempo reale.",
+      "en": "Web app built for GoodMorning Milano: live trains, airports, emergency rooms, air quality, weather and cameras across Lombardy."
+    },
+    {
+      "name": "tranvai",
+      "label": "Tranvai",
+      "family": "city-data",
+      "status": "private",
+      "it": "Mappa animata della metropolitana di Milano con i convogli in servizio, ricostruiti dagli orari reali. Funziona anche come display.",
+      "en": "Animated map of the Milan metro showing trains in service, rebuilt from real timetables. Also works as a display."
+    },
+    {
+      "name": "tempus",
+      "label": "Tempus",
+      "family": "city-data",
+      "status": "private",
+      "it": "Raccoglie calendari Google e iCal e li mostra su schermi e display.",
+      "en": "Gathers Google and iCal calendars and shows them on screens and displays."
+    },
+    {
+      "name": "giorgius",
+      "label": "Giorgius",
+      "family": "community-tools",
+      "status": "private",
+      "it": "Portale per classi scolastiche: materie, gruppi, documenti condivisi, accesso con codice d'invito.",
+      "en": "Portal for school classes: subjects, groups, shared documents, invitation-code access."
+    },
+    {
+      "name": "workflow",
+      "label": "Workflow",
+      "family": "community-tools",
+      "status": "private",
+      "it": "Gestione di team, attività, routine e passi di lavoro.",
+      "en": "Team, task, routine and work-step management."
+    },
+    {
+      "name": "podcast-core-plugin",
+      "label": "Podcast Core Plugin",
+      "family": "podcast-wordpress",
+      "status": "upcoming",
+      "license": "GPL-2.0",
+      "it": "Episodi, serie, player audio e import automatico dal feed RSS. Nessuna dipendenza esterna.",
+      "en": "Episodes, series, audio player and automatic RSS feed import. No third-party dependencies."
+    },
+    {
+      "name": "podcast-core-theme",
+      "label": "Podcast Core Theme",
+      "family": "podcast-wordpress",
+      "status": "upcoming",
+      "license": "GPL-2.0",
+      "it": "Tema a blocchi pensato per Podcast Core Plugin: pagine episodio, archivi delle serie, ricerca raggruppata.",
+      "en": "Block theme built for Podcast Core Plugin: episode pages, series archives, grouped search."
+    }
+  ]
+}
