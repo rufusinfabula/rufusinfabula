@@ -132,6 +132,7 @@ Plugin e tema per costruire il sito di un podcast in WordPress.<br><sub>A plugin
 
 | Progetto · Project | Descrizione · Description | Versione · Version | Licenza · License |
 |---|---|---|---|
+| [**awards-core-studio**](https://github.com/rufusinfabula/awards-core-studio) |  | 0.2.0 | GPL-2.0 |
 | [**podcast-core-engine**](https://github.com/rufusinfabula/podcast-core-engine) |  | — | GPL-2.0 |
 | [**podcast-core-studio**](https://github.com/rufusinfabula/podcast-core-studio) |  | — | GPL-2.0 |
 <!-- PROJECTS:END -->
